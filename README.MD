@@ -1,4 +1,3 @@
-### How to provision EKS Cluster?
 # # # EKS Install
 
 *NOTE:* This is for the lab purpose, not for PROD purpose.
